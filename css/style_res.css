@@ -1,0 +1,117 @@
+@media screen and (max-width: 1024px) {
+div.menu ul li a{padding:0 20px}
+}
+@media screen and (max-width: 960px) {
+div.header{display:block}
+nav#menu{display:none}
+
+div#header {background: none;}
+div#header .content_bn{text-align:center}
+.info_header span{margin:0;line-height:20px}
+.info_header{position:relative;top:auto;right:auto;width:100%;text-align:center;padding:5px;}
+.info_header .ten_cty {width:100%;text-align:center;}
+div#lang {margin:0px;width:100%;}
+
+
+.top_header {position: relative;}
+
+.top_header .content {padding: 5px;}
+
+.hotline_m{float:right;display:block;padding-right:10px;font-size:20px;color:#FF0;font-family:RobotoBold}
+
+div#main_content{width:100%}
+div#footer{width:100%}
+div#slider{width:100%;padding:0;border:none}
+div#danhmuc{display:none}
+div#right{width:100%}
+div#left{display:none}
+div#main_footer{width:100%}
+div#thongke{width:100%}
+div.thongke_an{display:none}
+div.tt_lh{width:100%}
+div.bando{width:100%}
+.menu_login{display:none}
+
+
+}
+
+@media screen and (max-width: 920px) {
+.box_news2{width:100%}
+div.search{position:relative;top:auto;right:auto;width:100%;margin: 0px;border-radius: 0px;
+ left: 0px;bottom: 0px;
+}
+.item{width:calc((100% / 4) - 13px)}
+
+div#header .logo {max-height: 80px;margin: 0px;}
+div#header .banner {margin: 0px;max-width: 90%;}
+
+div#header .content_bn {height: auto;background: none;}
+.slogan_top  {display:inline-block;vertical-align:top;margin:0px;float:none;text-align: center;width: 100%;
+	padding:2px;background:#016F86; }
+
+
+.box_container .content {padding: 10px;}
+div.link_lienket {width: 100%;padding: 5px;text-align: center;height: auto;}
+
+
+}
+@media screen and (max-width: 700px) {
+
+div#header .content_bn .col_bn , div#header .content_bn .col_bn2 {width: 100%;text-align: center;
+	display: inline-block;padding: 0px;}
+
+.hotline_top , .sub_menu_top{display: none;}
+
+.top_header .diachi {margin: 0px;}
+
+
+.item{width:calc((100% / 2) - 13px);margin: 5px;}
+
+
+#div_dangkynhantin .title_dknt , #dknt {width: 100%;}
+
+.sp_cart_top {top: 10px;right: 0px;}
+.sp_cart_top p {display: none;}
+
+.box_first_new , .list_news_nb {width: 100%;padding: 5px;}
+
+
+}
+@media screen and (max-width: 603px) {
+.gioithieu_index .col_gt{width:100%}
+.zoom_slick{width:85%;max-width:400px;float:none;margin:auto}
+.product_info{width:100%;margin-top:10px}
+.gh_an{display:none}
+.box_news{width:100%}
+.dangky,div.dangnhap{width:100%}
+.col_ft{width:100%;padding:5px}
+.copy_right .c1{display:none}
+.copy_right .c2{width:80%}
+div#tabs ul#ultabs{padding-left:15px}
+div#tabs ul#ultabs li{margin-right:15px;font-size:17px;padding-right:15px}
+form#frm_dknt{float:none;display:inline-block;vertical-align:top;margin:0;text-align:center;
+width: 100%;}
+.col_w40,.col_w60,.col_w50,.col_w70 , .col_w33{width:100%}
+.col_w30,.col_w20{width:100%}
+
+.item_dichvu_i .img , .item_dichvu_i .info {width: 100%}
+
+}
+@media screen and (max-width: 460px) {
+div.tieude_giua{font-size:18px}
+div.frm_lienhe .item_lienhe input[type='text'],div.frm_lienhe .item_lienhe textarea,div.frm_lienhe .item_lienhe input[type='password']{width:100%}
+div.frm_lienhe .item_lienhe select{width:100%}
+.map_description{width:100%}
+.box_news a img{width:110px}
+div.frm_lienhe .item_lienhe p{width:100%}
+.othernews ul.phantrang{margin-left:0}
+.box_news h3 a{font-size:14px}
+.box_news_i{width:calc(100% - 30px)}
+
+
+.col_w30{width:100%}
+}
+@media screen and (max-width: 360px) {
+
+
+}
